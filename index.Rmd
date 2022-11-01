@@ -24,7 +24,7 @@ Ph.D. Student in [Statistics & Data Science at Cornell University](https://stat.
 </div>
 
 <center>
-<img src="photo_of_me.png" style="width:20%;
+<img src="Xu_Yuchen.jpg" style="width:20%;
 border:5px solid; border-color:black">
 </center>
 
@@ -33,7 +33,7 @@ border:5px solid; border-color:black">
 </div>
 
 <center>
-My name is Yuchen Xu, and I am a Ph.D. student in the Department of Statistics & Data Science at Cornell University. My current research interests are ________. I am interested in applications in ________. In my free time, I like to ________.
+My name is Yuchen Xu, and I am a Ph.D candidate in the Department of Statistics & Data Science at Cornell University. My current research interests are time series analysis, structured data (matrices and tensors) analysis and image analysis. I am interested in applications in physics and behavior science.
    
 Please find my CV [insert link here].   
 </center>

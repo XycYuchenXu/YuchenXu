@@ -26,16 +26,17 @@ output:
 </div>
 
     
-## Bachelors of Arts/Science: Mathematics & Applied Mathematics, Zhiyuan Honor Program
+## Bachelors of Arts/Science: Mathematics & Applied Mathematics, Zhiyuan Honors Program
 
-Shanghai Jiao Tong University, Zhiyuan College, Shanghai, China
+Shanghai Jiao Tong University, School of Mathematical Science, Shanghai, China
 
 
 - **Graduated:** June 2018   
 - List your achievements 
-- **GPA:** 3.8  
-- **Undergraduate Thesis**: "Title"    
-- **Thesis Advisor**: [Dr. Shan Luo](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/helgeson-vicki.html)
+- **GPA:** 3.85/4.30  
+- **Undergraduate Thesis**: "Test on Simultaneous Diagonalization of Random
+Matrices"    
+- **Thesis Advisor**: [Dr. Shan Luo](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIetw)
 
 </div>
 <div style="margin-bottom:20px;">

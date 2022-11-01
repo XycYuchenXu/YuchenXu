@@ -25,14 +25,14 @@ output:
 <div style="margin-bottom:20px;">
 </div>
 
-## Doctor of Philosophy: Statistics
+## Doctor of Philosophy: Statistics & Data Science
 Cornell University Graduate School, Ithaca, NY 
 
 - **Entered:** Fall 2018    
-- **GPA:** 4
+- **GPA:** 4.0/4.0
 - List awards and achievements
 - **Advisor:** [Dr. David S. Matteson](https://davidsmatteson.com/)
-- **Research Assistantship Advisor:** [Dr. Felix Thoemmes](https://www.human.cornell.edu/people/fjt36)
+- **Research Assistantship Advisor:** [Dr. Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells)
 
 </div>
 <div style="margin-bottom:20px;">
