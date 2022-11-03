@@ -1,12 +1,12 @@
-name: "kim-hochstedler"
+name: "yuchen-xu"
 output_dir: "docs"
 navbar:
-  title: "My name"
+  title: "Yuchen Xu"
   left:
     - text: "Home"
       href: index.html
     - text: "Education"
-      menu: 
+      menu:
         - text: "Undergraduate"
           href: undergrad.html
         - text: "Graduate"
@@ -15,14 +15,14 @@ navbar:
     - icon: fa-envelope fa-lg
       href: contact_info.html
     - icon: fa-github fa-lg
-      href: https://github.com/kimhochstedler
+      href: https://github.com/XycYuchenXu
     - icon: fa-twitter fa-lg
-      href: https://twitter.com/kimhochstedler
+      href: https://twitter.com/XycXu
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/kimberly-hochstedler/
+      href: https://www.linkedin.com/in/yuchenxu1015/
     - icon: fa-google fa-lg
-      href: https://scholar.google.com/citations?user=-805KJkAAAAJ&hl=en
-      
+      href: https://scholar.google.com/citations?hl=en&authuser=1&user=Tx9EcgMAAAAJ
+
 output:
   html_document:
     theme: journal
