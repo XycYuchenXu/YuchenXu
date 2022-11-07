@@ -18,7 +18,7 @@ output:
 </div>
 
 <center>
-<img src="cmu.png">
+<img src="sjtu.jpeg">
 </center>
 
 <div>
@@ -32,20 +32,20 @@ Shanghai Jiao Tong University, School of Mathematical Science, Shanghai, China
 
 
 - **Graduated:** June 2018   
-- List your achievements 
+<!-- - List your achievements  -->
 - **GPA:** 3.85/4.30  
 - **Undergraduate Thesis**: "Test on Simultaneous Diagonalization of Random
 Matrices"    
 - **Thesis Advisor**: [Dr. Shan Luo](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIetw)
 
-</div>
-<div style="margin-bottom:20px;">
-</div>
+<!-- </div> -->
+<!-- <div style="margin-bottom:20px;"> -->
+<!-- </div> -->
 
 
-## Articles and News
+<!-- ## Articles and News -->
 
-- [A student feature](https://www.cmu.edu/dietrich/news/news-stories/2018/may/kim-hochstedler.html) from graduation
-- List cool things you did
+<!-- - [A student feature](https://www.cmu.edu/dietrich/news/news-stories/2018/may/kim-hochstedler.html) from graduation -->
+<!-- - List cool things you did -->
 
 

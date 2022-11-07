@@ -16,8 +16,6 @@ navbar:
       href: contact_info.html
     - icon: fa-github fa-lg
       href: https://github.com/XycYuchenXu
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/XycXu
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/yuchenxu1015/
     - icon: fa-google fa-lg

@@ -30,20 +30,20 @@ Cornell University Graduate School, Ithaca, NY
 
 - **Entered:** Fall 2018    
 - **GPA:** 4.0/4.0
-- List awards and achievements
+<!-- - List awards and achievements -->
 - **Advisor:** [Dr. David S. Matteson](https://davidsmatteson.com/)
 - **Research Assistantship Advisor:** [Dr. Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells)
 
-</div>
-<div style="margin-bottom:20px;">
-</div>
+<!-- </div> -->
+<!-- <div style="margin-bottom:20px;"> -->
+<!-- </div> -->
 
-## Tips for Cornell students in statistics
+<!-- ## Tips for Cornell students in statistics -->
 
-- Do not start graduate school during a global pandemic.
+<!-- - Do not start graduate school during a global pandemic. -->
 
-## Articles and News
+<!-- ## Articles and News -->
 
-- List cool things here
+<!-- - List cool things here -->
 
 
