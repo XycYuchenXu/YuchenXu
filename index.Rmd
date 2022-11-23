@@ -32,11 +32,11 @@ border:5px solid; border-color:black">
 <div style="margin-bottom:20px;">
 </div>
 
-<center>
-My name is Yuchen Xu, and I am a Ph.D candidate in the Department of Statistics & Data Science at Cornell University. My advisor is [David S. Matteson](https://davidsmatteson.com/). My current research interests are time series analysis, structured data analysis such as matrix diagonalization and tensor decomposition, and image analysis. I am interested in science-integrated applications like physics and behavior science.
+My name is Yuchen Xu, and I am a Ph.D candidate in the Department of Statistics & Data Science at Cornell University. Advised by Professor [David S. Matteson](https://davidsmatteson.com/), I am actively engaged in a number of funded grant projects.
+
+My current research interests are time series analysis, image analysis, and structured data analysis, such as dimension reduction through matrix diagonalization and/or tensor decomposition. I am also interested in science-integrated applications like material science, medical data analysis, signal processing, and behavior science.
    
-Please find my CV [here].
-</center>
+Please find my CV [here]().
 
 </div>
 <div style="margin-bottom:20px;">

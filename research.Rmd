@@ -1,0 +1,62 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'research.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>Research Experience</h1> </center>
+
+## Publications
+
+* Manzorro, R., __Xu, Y.__, Vincent, J., Rivera, R., Matteson, D., \& Crozier, P. (2022). _Exploring Blob Detection to Determine Atomic Column Positions and Intensities in Time-Resolved TEM Images with Ultra-Low Signal-to-Noise_. _Microscopy and Microanalysis_, 1-14. [__doi:10.1017/S1431927622000356__](https://doi.org/10.1017/S1431927622000356).
+
+* __Xu, Y.__, Düker, M. C., \& Matteson, D. S. (2021). _Testing Simultaneous Diagonalizability_. _arXiv preprint_ [__arXiv:2101.07776__](https://arxiv.org/abs/2101.07776).
+
+* Goolsby, C., Losey, J., __Xu, Y.__, Düker, M. C., Sherman, M. G., Matteson, D. S., \& Moradi, M. (2021). _Addressing the Embeddability Problem in Transition Rate Estimation_. _bioRxiv preprint_ [__bioRxiv:707919__](https://www.biorxiv.org/content/10.1101/707919v4).
+
+* Thomas, A. M., Crozier, P. A., __Xu, Y.__, \& Matteson, D. S. (2022). _Detection and hypothesis testing of features in extremely noisy image series using topological data analysis, with applications to nanoparticle videos_. _arXiv preprint_ [__arXiv:2209.13584__](https://arxiv.org/abs/2209.13584).
+
+
+## Presentations
+
+#### Testing Simultaneous Diagonalizabiliy
+
+* Contributed \& Poster. Joint Statistical Meeting (JSM), Business and Economic Statistics Section, Speed Session. July 2019. Denver, CO.
+
+* Poster. Cornell Celebration of Statistics and Data Science, Poster Session. Sept 2019. Ithaca, NY.
+
+#### Recording atomic column positions and intensities via Blob Detection in noise-degraded TEM frames
+
+* Contributed. UPSTAT 2021 Conference, Parallel Session, _Bronze Medal Presenter_. Apr 2021. (Virtual) Rochester, NY.
+
+* Contributed. The 37th SIDIM, Data Science in Science Minisymposia, Parallel Session. Feb 2022. (Virtual) Puerto Rico.
+
+#### Non-parametric ridge recovery of TEM image series given temporal parameterization
+
+* Contributed. 2022 INFORMS Annual Meeting, Science-Integrated Statistical Learning Section, Technical Session. Oct 2022. Indianapolis, IN.
+
+* Poster. 2022 IEEE Western New York Image and Signal Processing Workshop (WNYISPW), Poster Session. Nov 2022. (Hybrid) Rochester, NY.
+
+
+## Collaborations
+
+* [__HDR Catalyst Project__](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940124&HistoricalAwards=false) | Nov 2019 - Present | Ithaca, NY\
+Collaborate with groups of:
+    * [__Prof. Roberto Rivera__](https://scholar.google.com/citations?user=0HEAaC4AAAAJ&hl=en): propose and adapt hidden Markov models to dynamically cluster nanoparticle atomic structural configurations.
+
+    * [__Prof. Peter A. Crozier__](https://crozier.engineering.asu.edu/people/peter-a-crozier/): adapt blob detection algorithm to extract locations and intensities of atomic columns.
+
+    * [__Prof. Mahmoud Moradi__](https://bslgroup.hosted.uark.edu/members.shtml): refine the estimators of Markov chain transition rate matrices from transition probability matrices.
+
+
+* Heart Failure Project | Dec 2021 - Present | Ithaca, NY\
+Collaborate with [New York-Presbyterian (NYP) Hospital](https://www.nyp.org/) to conduct patients' heart failure inference from Electrocardiograms (ECG) data with other hospital-visit records.
+
+

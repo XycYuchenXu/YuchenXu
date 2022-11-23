@@ -1,0 +1,90 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'education.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>Graduate Education - Ph.D.</h1> </center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center>
+<img src="cornell.jpg" style="width:55%">
+</center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+## Doctor of Philosophy: Statistics & Data Science
+Cornell University Graduate School, Ithaca, NY 
+
+- **Entered:** Fall 2018    
+- **GPA:** 4.0/4.0
+<!-- - List awards and achievements -->
+- **Advisor:** [Dr. David S. Matteson](https://davidsmatteson.com/)
+- **Research Assistantship Advisor:** [Dr. Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells)
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+## Links
+
+- [Cornell University](https://www.cornell.edu/)
+  - [Cornell Ann S. Bowers College of Computing and Information Science (CIS)](https://cis.cornell.edu/)
+    - [Department of Statistics and Data Science (DSDS)](https://stat.cornell.edu/)
+
+<div>
+<div style="margin-bottom:60px;">
+</div>
+
+
+<center> <h1>Undergraduate Education</h1> </center>
+
+<div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center>
+<img src="sjtu.jpeg">
+</center>
+
+<div>
+<div style="margin-bottom:20px;">
+</div>
+
+    
+## Bachelors of Arts/Science: Mathematics & Applied Mathematics, Zhiyuan Honors Program
+
+Shanghai Jiao Tong University, School of Mathematical Science, Shanghai, China
+
+
+- **Graduated:** June 2018   
+<!-- - List your achievements  -->
+- **GPA:** 3.85/4.30  
+- **Undergraduate Thesis**: "Test on Simultaneous Diagonalization of Random
+Matrices"    
+- **Thesis Advisor**: [Dr. Shan Luo](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIetw)
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+
+## Links
+
+- [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
+  - [Zhiyuan Honors Program](https://en.zhiyuan.sjtu.edu.cn/)
+<!-- - List cool things you did -->
+
+
