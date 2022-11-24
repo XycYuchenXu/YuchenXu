@@ -36,7 +36,7 @@ My name is Yuchen Xu, and I am a Ph.D candidate in the Department of Statistics 
 
 My current research interests are time series analysis, image analysis, and structured data analysis, such as dimension reduction through matrix diagonalization and/or tensor decomposition. I am also interested in science-integrated applications like material science, medical data analysis, signal processing, and behavior science.
    
-Please find my CV [here]().
+Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/supp/cv_yuchen.pdf).
 
 </div>
 <div style="margin-bottom:20px;">
