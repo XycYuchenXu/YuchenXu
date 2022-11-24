@@ -1,7 +1,7 @@
 ---
 title: ""
 knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
+  out_dir <- '../docs';
   rmarkdown::render(input_file,
  encoding=encoding,
  output_file=file.path(dirname(input_file), out_dir, 'research.html'))})
@@ -13,6 +13,11 @@ output:
 
 <center> <h1>Research Experience</h1> </center>
 
+</div>
+<div style="margin-bottom:40px;">
+</div>
+
+
 ## Publications
 
 * Manzorro, R., __Xu, Y.__, Vincent, J., Rivera, R., Matteson, D., \& Crozier, P. (2022). _Exploring Blob Detection to Determine Atomic Column Positions and Intensities in Time-Resolved TEM Images with Ultra-Low Signal-to-Noise_. _Microscopy and Microanalysis_, 1-14. [__doi:10.1017/S1431927622000356__](https://doi.org/10.1017/S1431927622000356).
@@ -23,6 +28,10 @@ output:
 
 * Thomas, A. M., Crozier, P. A., __Xu, Y.__, \& Matteson, D. S. (2022). _Detection and hypothesis testing of features in extremely noisy image series using topological data analysis, with applications to nanoparticle videos_. _arXiv preprint_ [__arXiv:2209.13584__](https://arxiv.org/abs/2209.13584).
 
+
+</div>
+<div style="margin-bottom:60px;">
+</div>
 
 ## Presentations
 
@@ -43,6 +52,11 @@ output:
 * Contributed. 2022 INFORMS Annual Meeting, Science-Integrated Statistical Learning Section, Technical Session. Oct 2022. Indianapolis, IN.
 
 * Poster. 2022 IEEE Western New York Image and Signal Processing Workshop (WNYISPW), Poster Session. Nov 2022. (Hybrid) Rochester, NY.
+
+
+</div>
+<div style="margin-bottom:60px;">
+</div>
 
 
 ## Collaborations

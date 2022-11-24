@@ -1,7 +1,7 @@
 ---
 title: ""
 knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
+  out_dir <- '../docs';
   rmarkdown::render(input_file,
  encoding=encoding,
  output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
@@ -24,7 +24,7 @@ Ph.D. Student in [Statistics & Data Science at Cornell University](https://stat.
 </div>
 
 <center>
-<img src="Xu_Yuchen.jpg" style="width:20%;
+<img src="../imgs/Xu_Yuchen.jpg" style="width:20%;
 border:5px solid; border-color:black">
 </center>
 

@@ -1,7 +1,7 @@
 ---
 title: ""
 knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
+  out_dir <- '../docs';
   rmarkdown::render(input_file,
  encoding=encoding,
  output_file=file.path(dirname(input_file), out_dir, 'education.html'))})
@@ -18,7 +18,7 @@ output:
 </div>
 
 <center>
-<img src="cornell.jpg" style="width:55%">
+<img src="../imgs/cornell.jpg" style="width:55%">
 </center>
 
 </div>
@@ -56,7 +56,7 @@ Cornell University Graduate School, Ithaca, NY
 </div>
 
 <center>
-<img src="sjtu.jpeg">
+<img src="../imgs/sjtu.jpeg">
 </center>
 
 <div>
