@@ -16,10 +16,10 @@ navbar:
       href: https://github.com/XycYuchenXu
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/yuchenxu1015/
-    - icon: fa-orcid fa-lg
-      href: https://orcid.org/0000-0003-1128-3774
     - icon: fa-google fa-lg
       href: https://scholar.google.com/citations?hl=en&authuser=1&user=Tx9EcgMAAAAJ
+    - icon: fab fa-orcid fa-lg
+      href: https://orcid.org/0000-0003-1128-3774
 
 output:
   html_document:

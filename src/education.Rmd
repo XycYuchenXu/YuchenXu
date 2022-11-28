@@ -18,7 +18,7 @@ output:
 </div>
 
 <center>
-<img src="../imgs/cornell.jpg" style="width:55%">
+<img src="../assets/imgs/cornell.jpg" style="width:60%">
 </center>
 
 </div>
@@ -56,7 +56,7 @@ Cornell University Graduate School, Ithaca, NY
 </div>
 
 <center>
-<img src="../imgs/sjtu.jpeg">
+<img src="../assets/imgs/sjtu.jpeg" style="width:60%">
 </center>
 
 <div>

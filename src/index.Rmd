@@ -24,7 +24,7 @@ Ph.D. Student in [Statistics & Data Science at Cornell University](https://stat.
 </div>
 
 <center>
-<img src="../imgs/Xu_Yuchen.jpg" style="width:20%;
+<img src="../assets/imgs/Xu_Yuchen.jpg" style="width:40%;
 border:5px solid; border-color:black">
 </center>
 
@@ -36,7 +36,7 @@ My name is Yuchen Xu, and I am a Ph.D candidate in the Department of Statistics 
 
 My current research interests are time series analysis, image analysis, and structured data analysis, such as dimension reduction through matrix diagonalization and/or tensor decomposition. I am also interested in science-integrated applications like material science, medical data analysis, signal processing, and behavior science.
    
-Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/supp/cv_yuchen.pdf).
+Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets/cv_yuchen.pdf).
 
 </div>
 <div style="margin-bottom:20px;">
