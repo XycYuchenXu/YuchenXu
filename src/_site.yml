@@ -7,7 +7,7 @@ navbar:
       href: index.html
     - text: "Education"
       href: education.html
-    - text: "Researcch"
+    - text: "Research"
       href: research.html
   right:
     - icon: fa-envelope fa-lg

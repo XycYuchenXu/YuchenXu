@@ -18,7 +18,7 @@ output:
 </div>
 
 
-## Publications
+## Publications & Preprints
 
 * Manzorro, R., __Xu, Y.__, Vincent, J., Rivera, R., Matteson, D., \& Crozier, P. (2022). _Exploring Blob Detection to Determine Atomic Column Positions and Intensities in Time-Resolved TEM Images with Ultra-Low Signal-to-Noise_. _Microscopy and Microanalysis_, 1-14. [__doi:10.1017/S1431927622000356__](https://doi.org/10.1017/S1431927622000356).
 
