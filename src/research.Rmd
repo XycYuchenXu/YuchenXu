@@ -43,7 +43,7 @@ output:
 
 #### Recording atomic column positions and intensities via Blob Detection in noise-degraded TEM frames
 
-* Contributed. UPSTAT 2021 Conference, Parallel Session, _Bronze Medal Presenter_. Apr 2021. (Virtual) Rochester, NY.
+* Contributed. UPSTAT 2021 Conference, Parallel Session, *__Bronze Medal Presenter__*. Apr 2021. (Virtual) Rochester, NY.
 
 * Contributed. The 37th SIDIM, Data Science in Science Minisymposia, Parallel Session. Feb 2022. (Virtual) Puerto Rico.
 
@@ -51,7 +51,7 @@ output:
 
 * Contributed. 2022 INFORMS Annual Meeting, Science-Integrated Statistical Learning Section, Technical Session. Oct 2022. Indianapolis, IN.
 
-* Poster. 2022 IEEE Western New York Image and Signal Processing Workshop (WNYISPW), Poster Session. Nov 2022. (Hybrid) Rochester, NY.
+* Poster. 2022 IEEE Western New York Image and Signal Processing Workshop (WNYISPW), Poster Session, *__Best Student Poster Award__*. Nov 2022. (Hybrid) Rochester, NY.
 
 
 </div>
