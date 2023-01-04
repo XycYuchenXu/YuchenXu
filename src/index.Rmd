@@ -39,5 +39,22 @@ My current research interests are time series analysis, image analysis, and stru
 Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets/cv_yuchen.pdf).
 
 </div>
-<div style="margin-bottom:20px;">
+<div style="margin-bottom:50px;">
 </div>
+
+### Selected Publication & Preprints
+
+* Manzorro, R., __Xu, Y.__, Vincent, J., Rivera, R., Matteson, D., \& Crozier, P. (2022). _Exploring Blob Detection to Determine Atomic Column Positions and Intensities in Time-Resolved TEM Images with Ultra-Low Signal-to-Noise_. _Microscopy and Microanalysis_, 1-14. [__doi:10.1017/S1431927622000356__](https://doi.org/10.1017/S1431927622000356).
+
+* __Xu, Y.__, Düker, M. C., \& Matteson, D. S. (2021). _Testing Simultaneous Diagonalizability_. _arXiv preprint_ [__arXiv:2101.07776__](https://arxiv.org/abs/2101.07776).
+
+</div>
+<div style="margin-bottom:30px;">
+</div>
+
+### Selected Honors & Awards
+
+* *__Best Student Poster Award__* at IEEE Western New York Image and Signal Processing Workshop (WNYISPW), November 2022.
+
+* *__Bronze__* medal presentation at UPSTAT Conference, April 2021.
+
