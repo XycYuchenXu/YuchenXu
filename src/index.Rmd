@@ -54,7 +54,9 @@ Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets
 
 ### Selected Honors & Awards
 
-* *__Best Student Poster Award__*, IEEE Western New York Image and Signal Processing Workshop (WNYISPW), November 2022.
+* *__Best Student Poster Award__*, IEEE Western New York Image and Signal Processing Workshop (WNYISPW), November 2022.  
+*__Title__*: *Non-parametric ridge recovery of TEM image series given temporal parameterization*.
 
-* *__The Most Outstanding Students Awards Bronze Medal__*, UPSTAT Conference, April 2021.
+* *__The Most Outstanding Students Awards Bronze Medal__*, UPSTAT Conference, April 2021.  
+*__Title__*: *Recording atomic column positions and intensities via Blob Detection in noise-degraded TEM frames*.
 
