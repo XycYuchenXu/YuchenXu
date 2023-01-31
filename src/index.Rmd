@@ -34,7 +34,7 @@ border:5px solid; border-color:black">
 
 My name is Yuchen Xu, and I am a Ph.D candidate in the Department of Statistics & Data Science at Cornell University. Advised by Professor [David S. Matteson](https://davidsmatteson.com/), I am actively engaged in a number of funded grant projects.
 
-My current research interests are time series analysis, image analysis, and structured data analysis, such as dimension reduction through matrix diagonalization and/or tensor decomposition. I am also interested in science-integrated applications like material science, medical data analysis, signal processing, and behavior science.
+My current research interests are time series analysis, image analysis, and multivariate analysis, such as dimension reduction through matrix diagonalization and/or tensor decomposition. I am also interested in science-integrated applications like material science, medical data analysis, signal processing, and behavior science.
    
 Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets/cv_yuchen.pdf).
 
@@ -44,9 +44,9 @@ Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets
 
 ### Selected Publication & Preprints
 
-* Manzorro, R., __Xu, Y.__, Vincent, J., Rivera, R., Matteson, D., \& Crozier, P. (2022). _Exploring Blob Detection to Determine Atomic Column Positions and Intensities in Time-Resolved TEM Images with Ultra-Low Signal-to-Noise_. _Microscopy and Microanalysis_, 1-14. [__doi:10.1017/S1431927622000356__](https://doi.org/10.1017/S1431927622000356).
-
 * __Xu, Y.__, Düker, M. C., \& Matteson, D. S. (2021). _Testing Simultaneous Diagonalizability_. _arXiv preprint_ [__arXiv:2101.07776__](https://arxiv.org/abs/2101.07776).
+
+* Manzorro, R., __Xu, Y.__, Vincent, J., Rivera, R., Matteson, D., \& Crozier, P. (2022). _Exploring Blob Detection to Determine Atomic Column Positions and Intensities in Time-Resolved TEM Images with Ultra-Low Signal-to-Noise_. _Microscopy and Microanalysis_, 1-14. [__doi:10.1017/S1431927622000356__](https://doi.org/10.1017/S1431927622000356).
 
 </div>
 <div style="margin-bottom:30px;">
@@ -54,7 +54,7 @@ Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets
 
 ### Selected Honors & Awards
 
-* *__Best Student Poster Award__* at IEEE Western New York Image and Signal Processing Workshop (WNYISPW), November 2022.
+* *__Best Student Poster Award__*, IEEE Western New York Image and Signal Processing Workshop (WNYISPW), November 2022.
 
-* *__Bronze__* medal presentation at UPSTAT Conference, April 2021.
+* *__The Most Outstanding Students Awards Bronze Medal__*, UPSTAT Conference, April 2021.
 
