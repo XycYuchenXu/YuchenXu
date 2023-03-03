@@ -27,9 +27,9 @@ _. _arXiv preprint_ [__arXiv:2302.00816__](https://arxiv.org/abs/2302.00816).
 
 * Manzorro, R., __Xu, Y.__, Vincent, J., Rivera, R., Matteson, D., \& Crozier, P. (2022). _Exploring Blob Detection to Determine Atomic Column Positions and Intensities in Time-Resolved TEM Images with Ultra-Low Signal-to-Noise_. _Microscopy and Microanalysis_, 1-14. [__doi:10.1017/S1431927622000356__](https://doi.org/10.1017/S1431927622000356).
 
-* Thomas, A. M., Crozier, P. A., __Xu, Y.__, \& Matteson, D. S. (2022). _Detection and hypothesis testing of features in extremely noisy image series using topological data analysis, with applications to nanoparticle videos_. _arXiv preprint_ [__arXiv:2209.13584__](https://arxiv.org/abs/2209.13584). Submitted to _Techonometrics_.
+* Thomas, A. M., Crozier, P. A., __Xu, Y.__, \& Matteson, D. S. (2022). _Detection and hypothesis testing of features in extremely noisy image series using topological data analysis, with applications to nanoparticle videos_. _arXiv preprint_ [__arXiv:2209.13584__](https://arxiv.org/abs/2209.13584). Conditionally accepted to _Techonometrics_.
 
-* Goolsby, C., Losey, J., __Xu, Y.__, Düker, M. C., Sherman, M. G., Matteson, D. S., \& Moradi, M. (2021). _Addressing the Embeddability Problem in Transition Rate Estimation_. _bioRxiv preprint_ [__bioRxiv:707919__](https://www.biorxiv.org/content/10.1101/707919v4).
+* Goolsby, C., Losey, J., __Xu, Y.__, Düker, M. C., Sherman, M. G., Matteson, D. S., \& Moradi, M. (2021). _Addressing the Embeddability Problem in Transition Rate Estimation_. _bioRxiv preprint_ [__bioRxiv:707919__](https://www.biorxiv.org/content/10.1101/707919v4). Submitted to the _Journal of Physical Chemistry_.
 
 
 </div>
