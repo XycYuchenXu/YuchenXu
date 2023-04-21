@@ -22,8 +22,7 @@ output:
 
 * __Xu, Y.__, Düker, M. C., \& Matteson, D. S. (2023). _Testing Simultaneous Diagonalizability_. _Journal of the American Statistical Association_. [__doi: 10.1080/01621459.2023.2202435__](https://doi.org/10.1080/01621459.2023.2202435).
 
-* __Xu, Y.__, Thomas, A. M., Crozier, P. A., \& Matteson, D. S. (2023). _Dynamic Atomic Column Detection in Transmission Electron Microscopy Videos via Ridge Estimation
-_. _arXiv preprint_ [__arXiv:2302.00816__](https://arxiv.org/abs/2302.00816).
+* __Xu, Y.__, Thomas, A. M., Crozier, P. A., \& Matteson, D. S. (2023). _Dynamic Atomic Column Detection in Transmission Electron Microscopy Videos via Ridge Estimation_. _arXiv preprint_ [__arXiv:2302.00816__](https://arxiv.org/abs/2302.00816).
 
 * Manzorro, R., __Xu, Y.__, Vincent, J., Rivera, R., Matteson, D., \& Crozier, P. (2022). _Exploring Blob Detection to Determine Atomic Column Positions and Intensities in Time-Resolved TEM Images with Ultra-Low Signal-to-Noise_. _Microscopy and Microanalysis_, 1-14. [__doi:10.1017/S1431927622000356__](https://doi.org/10.1017/S1431927622000356).
 
