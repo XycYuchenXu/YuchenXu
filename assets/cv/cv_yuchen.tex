@@ -1,0 +1,416 @@
+\documentclass[pdftex,11pt]{article}	% the pdftex is essential
+\usepackage[margin=1in, top=.8in, bottom=.7in]{geometry}
+\usepackage [english]{babel}
+\usepackage{fancyhdr} %fancy page numbers
+\usepackage{lastpage} %get the last page number
+\usepackage{palatino} %font
+\usepackage{ltablex} %Tables for formating
+\usepackage{csquotes} 
+\usepackage{multirow}
+
+%Format bibliography
+\usepackage[backend=biber, doi = true, maxbibnames=99, defernumbers, style=ieee, sorting=key]{biblatex}
+\DeclareFieldFormat{labelnumberwidth}{}
+\setlength{\biblabelsep}{0pt}
+
+%To format links when in pdf form and printed
+\usepackage{hyperref} 
+\hypersetup{
+    colorlinks=false,
+    linkbordercolor ={0 0 1}
+}
+
+
+\DeclareNameAlias{default}{family-given}
+
+%Sorting of bibliography
+\DeclareSortingTemplate{ymn}{
+      \sort[direction=descending]{\field{year}}
+      \sort[direction=descending]{\field{month}}
+  }
+\DeclareSortingTemplate{key}{
+	\sort[direction=ascending]{\field{sortkey}}
+	\sort[direction=descending]{\field{year}}
+	\sort[direction=descending]{\field{month}}
+}
+
+\newif\ifpub
+\pubfalse
+
+%\AtEveryBibitem{\clearfield{doi}}
+
+%\ifpub
+%\AtEveryBibitem{\clearfield{addendum}}
+%\else
+%\AtEveryBibitem{\clearfield{note}}
+%\fi
+
+%Add bibliography
+%\addbibresource{MyCollection.bib} 
+\bibliography{MyCollection.bib}
+\nocite{*}
+
+%Do not indent paragraphs
+\setlength{\parindent}{0cm} 
+
+\pagestyle{fancy} %For running header
+\lhead{Y. Xu} \rhead{Page \thepage \hspace{1pt} / \pageref*{LastPage}} %name and page numbers
+\cfoot{} %empty footer
+%\renewcommand{\headrulewidth}{1pt} %option to remove header line
+
+\usepackage{titlesec}
+\titleformat*{\section}{\normalsize\bfseries}
+\titleformat*{\subsection}{\normalsize\bfseries}
+\titleformat*{\subsubsection}{\normalsize\bfseries}
+\titleformat*{\paragraph}{\normalsize\bfseries}
+\titleformat*{\subparagraph}{\normalsize\bfseries}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{-3pt plus 2pt minus 2pt}
+
+%Format for last updated date
+\usepackage{datetime2}
+\DTMsetdatestyle{mmddyyyy}
+\DTMsetup{datesep=/}
+
+
+%\usepackage{booktabs}
+\usepackage{ltxtable} 
+\keepXColumns
+
+\usepackage{listings}
+\lstset{ %
+	language=R,                     % the language of the code
+	basicstyle=\selectfont\ttfamily,
+} 
+
+\newif\ifacademia
+\newif\ifus
+
+\academiatrue
+\ustrue
+
+\begin{document} \thispagestyle{empty} %no header on first page
+
+\begin{center} \huge{\textbf{Yuchen Xu}}\\
+\normalsize \end{center}
+
+\indent \begin{tabularx}{\textwidth}{@{} X  r  @{}} 
+Cornell University, Department of Statistics \& Data Science & \mbox{\href{mailto:yx439@cornell.edu}{yx439@cornell.edu}} \\
+Ithaca, NY 14853 & \ifus(+1)6072621106\else(+86)13867330220\fi \\
+%School city, state, zip & (+86)13867330220 \\ \mbox{\href{https://www.linkedin.com/in/youraccount/}{LinkedIn}}   \\ % \mbox{\href{https://scholar.google.com/citations?user=youraccountnums}{Google Scholar}} \\ 
+\end{tabularx}
+
+\section*{EDUCATION} 
+\begin{tabularx}{\textwidth}{ @{} p{2.7cm}  X  @{}}  
+	2018 - 2023 & Ph.D. Candidate in Statistics \& Data Science\\ %Put expected year, but do not need to label as expected
+	& Cornell University, Ithaca, NY  \\
+	%& \it{Thesis: Thesis title}\\
+	& \\
+	2014 - 2018 & B.S. in Mathematics \& Applied Mathematics, Zhiyuan Honored Program \\ 
+	& Shanghai Jiao Tong University, Shanghai, China  \\
+	& \\
+	Fall 2017 & Research Intern Exchange \\
+	& Center for Applied Mathematics, Cornell University, Ithaca, NY \\
+	& \\
+	August 2016 & Summer Course on Partial Differential Equations \\
+	& Hertford College, Oxford University, Oxford, UK \\
+\end{tabularx} 
+
+\ifacademia
+\section*{RESEARCH THEORY \& METHODS}
+
+\begin{tabularx}{\textwidth}{@{} p{4cm} X X @{}}
+	{\bf Time Series Analysis:} & \textbullet ~ Changepoints & \textbullet ~ (Hidden) Markov model \\
+	{\bf Multivariate Analysis:} & \textbullet ~ Joint matrix diagonalization & \textbullet ~ Tensor decomposition \\
+	& \textbullet ~ Blind Source Separation (BSS) & \\
+	{\bf Image Analysis:} & \textbullet ~ Blob detection & \textbullet ~ Ridge detection
+\end{tabularx}
+
+\section*{RESEARCH APPLICATIONS}
+
+\begin{tabularx}{\textwidth}{@{} X X X @{}}
+	\textbullet ~ Financial Econometrics & \textbullet ~ Nanoparticles & \textbullet ~ Geology \\
+	\textbullet  ~ Medical Images and Signals & \textbullet ~ Molecular Dynamics & \\
+\end{tabularx}
+
+\else
+
+\section*{INDUSTRY EXPERIENCE}
+%Put all research projects here. GSRAs, summer research, research assistant, trainee positions. Can add short description of projects if early stage, but not suggested for long term.
+\begin{tabularx}{\textwidth}{@{} p{2.7cm}  p{1.5cm} X @{}}
+	May 2022 --- & \multicolumn{2}{l}{Data Scientist Intern} \\
+	\hfill --- Aug 2022 & \multicolumn{2}{l}{Amazon Web Services (AWS), Seattle, WA} \\
+	& Tasks: & Modeling efficacy for internal IT-Services products; \\ 
+	& & Optimizing data aggregation and interpretation logics. \\
+	& & \\
+	Mar 2018 --- & \multicolumn{2}{l}{Algorithm \& Data Science Intern} \\
+	\hfill --- May 2018 & \multicolumn{2}{l}{China Appraisal Association Data Analysis (CAAD), Shanghai, China} \\
+	& Tasks: & Regressing and predicting real estate appraisals; \\
+	& & Optimizing address search algorithms.
+\end{tabularx}
+\fi
+%\section*{RESEARCH INTERESTS}
+%\vspace{.7em}
+%\subsection*{Time Series Analysis}\vspace{-1.5em}
+%\begin{tabularx}{\textwidth}{ @{} X  X  @{}}  
+%	Change point detection & (Hidden) Markov model \\
+%\end{tabularx}\vspace{-.5em}
+%
+%\subsection*{Multivariate Analysis}\vspace{-1.5em}
+%\begin{tabularx}{\textwidth}{ @{} X  X  @{}}  
+%	Joint matrix diagonalization & Tensor decomposition \\
+%	Blind Source Separation (BSS) & Independent Component Analysis (ICA)
+%\end{tabularx} \vspace{-.5em}
+%
+%\subsection*{Image Analysis}\vspace{-1.5em}
+%\begin{tabularx}{\textwidth}{ @{} X  X  @{}}  
+%Blob detection & Ridge detection
+%\end{tabularx} 
+
+\section*{RESEARCH EXPERIENCE}
+%Put all research projects here. GSRAs, summer research, research assistant, trainee positions. Can add short description of projects if early stage, but not suggested for long term.
+\begin{tabularx}{\textwidth}{@{} p{2.7cm}  X  @{}}
+2018 - Present & Matteson Lab, Cornell University \\
+& \begin{tabular}{@{} p{1.5cm} X @{}}
+	Advisor: & \mbox{\href{https://davidsmatteson.com/}{Prof. David S. Matteson}} \\
+	Tasks: & Testing simultaneous diagonalizability. \\
+%	& Change point detection \& factorization for multivariate time series.
+\end{tabular}\\
+& \\
+2019 - Present & \mbox{\href{https://alsdcgroup.wordpress.com/}{Atomic-Level Structural Dynamics in Catalysts (ALSDC) Group}} \\
+& \begin{tabular}{@{} p{1.5cm} X @{}}
+	Advisor: & \mbox{\href{https://davidsmatteson.com/}{Prof. David S. Matteson}} \\
+	Tasks: & Clustering nanoparticle structures, w/ \mbox{\href{https://scholar.google.com/citations?user=0HEAaC4AAAAJ&hl=en}{Prof. Roberto Rivera}}; \\
+	& Extraction of TEM atomic columns, w/ \mbox{\href{https://crozier.engineering.asu.edu/people/peter-a-crozier/}{Prof. Peter A. Crozier}}; \\
+	& Estimating transition rate matrices, w/ \mbox{\href{https://bslgroup.hosted.uark.edu/members.shtml}{Prof. Mahmoud Moradi}}.
+\end{tabular}\\
+& \\
+2021 - Present & Enterprise Heart Failure Program, \mbox{\href{https://www.nyp.org/}{New York-Presbyterian (NYP) Hospital}} \\
+& \begin{tabular}{@{} p{1.5cm} X @{}}
+	Advisor: & \mbox{\href{https://stat.cornell.edu/people/faculty/martin-wells}{Prof. Martin Wells}} \\
+	Tasks: & Heart failure inference from ECG data, w/ \mbox{\href{https://vivo.weill.cornell.edu/display/cwid-asb9028}{Ashley N. Beecy, MD}}.
+\end{tabular}\\
+& \\
+2022 - Present & \mbox{\href{https://icahn.mssm.edu/about/departments/surgery}{Department of Surgery, Icahn School of Medicine at Mount Sinai Hospital}} \\
+& \begin{tabular}{@{} p{1.5cm} X @{}}
+	Advisor: & \mbox{\href{https://davidsmatteson.com/}{Prof. David S. Matteson}} \\
+	Tasks: & Predicting thyroid cancer recurrence, w/ \mbox{\href{https://profiles.mountsinai.org/denise-t-lee}{Denise Lee, MD}}.
+\end{tabular}
+\end{tabularx}
+
+
+%\section*{HONORS AND AWARDS} 
+%%Put awards in reverse chronological order (most recent should be first).
+%%If award is not for something obvious, include a link to a page describing it.
+%\begin{tabularx}{\textwidth}{@{} p{2.7cm}  X  @{}}
+%November 2022 & Best Student Poster Award, 2022 IEEE Western New York Image and Signal Processing Workshop (WNYISPW).\\
+%April 2021 & The most outstanding student, bronze medal, UPSTAT 2021 Conference.
+%\end{tabularx}
+
+\section*{PUBLICATIONS\footnote{\** First authors contributed equally.}}
+%Please see the MyColection.bib file for further instructions on this section
+%%%FORMAT%%%%
+% Each item needs a unique identifier.
+% List authors as Last, First M and Last2, First2 M2 and....
+% For your own name use \mkbibbold{Family, F. M.}
+% If co-first authors add * before last name (ie *Dess, Robert T)
+% If co-Primary investigators add \# beforre last name (ie \#Dess, Robert T)
+% include DOI to have link to article
+% Use "addendum" to add notes
+
+
+%%%%KEYWORDS%%%%
+% Article = article
+% Submitted = submitted
+% Abstract (typically worked on, but not presented) = abstract
+% In prep = inprep
+% Invited talk = invtalk
+% Contributed talk = talk
+% Talk = talk
+% Poster = poster
+% Use EITHER (invtalk and talk) OR talk
+\vspace{.7em}
+% \subsection*{Peer Reviewed Manuscripts}
+\printbibliography[heading=none, keyword=article]
+
+\section*{MANUSCRIPTS UNDER REVIEW OR REVISION}
+\vspace{.7em}
+\printbibliography[heading=none, resetnumbers=true, keyword=submitted]
+%
+%\subsection*{In Prep} %can combine Submitted and In Prep if there are few projects
+%\printbibliography[heading=none, resetnumbers=true, keyword=inprep]
+
+%\subsection*{Abstracts} %collaborations that other presented can go here. This section is optional usually
+%Presenter listed as first author
+%\printbibliography[heading=none, resetnumbers=true, keyword=abstract]
+%
+
+\section*{SOFTWARE}
+\vspace{.7em}
+\lstinline|R| package \lstinline|eigTest| available on \href{https://github.com/XycYuchenXu/eigTest}{Github}: Jointly Estimate and Test for Common Eigenvectors.
+
+\section*{PRESENTATIONS}
+%Please see the MyColection.bib file for further instructions on this section
+\vspace{.7em}
+%\subsection*{Invited - Oral}
+%\printbibliography[heading=none, resetnumbers=true, keyword=invtalk]
+%
+%\subsection*{Contributed - Oral}
+%\printbibliography[heading=none, resetnumbers=true, keyword=talk]
+
+% \subsection*{Oral} %If there are few talks, then combining them into one subsection is acceptable
+% \printbibliography[heading=none, resetnumbers=true, keyword=talk]
+
+% \subsection*{Poster}
+% \printbibliography[heading=none, resetnumbers=true, keyword=poster]
+\printbibliography[heading=none, resetnumbers=true, keyword=present]
+
+%\newpage
+\section*{LINKS}
+% \vspace{.5em}
+\begin{tabularx}{\textwidth}{@{} X  X  X  X  X @{}}
+	 \mbox{\href{https://xycyuchenxu.github.io/YuchenXu/}{\bf{Website}}}  & \mbox{\href{https://github.com/XycYuchenXu}{\bf Github}} &
+	\mbox{\href{https://www.linkedin.com/in/yuchenxu1015/}{\bf LinkedIn}} & \mbox{\href{https://scholar.google.com/citations?hl=en\&authuser=1\&user=Tx9EcgMAAAAJ}{\bf{Google Scholar}}} &
+	\mbox{\href{https://orcid.org/0000-0003-1128-3774}{\bf{ORCID}}}
+	%Wechat:// \mbox{\href{https://xycyuchenxu.github.io/YuchenXu/}{\bf{Xyc-Xu}}}\footnote{\** Please indicate purpose when sending requests.}
+\end{tabularx}
+
+\section*{SKILLS}
+\begin{tabularx}{\textwidth}{@{} X X X X X @{}}
+	{\bf Programming:} & R & Python & Matlab & \LaTeX \\
+	& SQL & AWS \& Azure & Stan & Java\\
+%	&&&&\\
+	{\bf Language:} & \multicolumn{2}{l}{English} & \multicolumn{2}{l}{Mandarin}
+\end{tabularx}
+
+\ifacademia
+\else
+\section*{RESEARCH THEORY \& METHODS}
+
+\begin{tabularx}{\textwidth}{@{} p{4cm} X X @{}}
+	{\bf Time Series Analysis:} & \textbullet ~ Changepoints & \textbullet ~ (Hidden) Markov model \\
+	{\bf Multivariate Analysis:} & \textbullet ~ Joint matrix diagonalization & \textbullet ~ Tensor decomposition \\
+	& \textbullet ~ Blind Source Separation (BSS) & \\
+	{\bf Image Analysis:} & \textbullet ~ Blob detection & \textbullet ~ Ridge detection
+\end{tabularx}
+
+\section*{RESEARCH APPLICATIONS}
+
+\begin{tabularx}{\textwidth}{@{} X X X @{}}
+	\textbullet ~ Financial Econometrics & \textbullet ~ Nanoparticles & \textbullet ~ Geology \\
+	\textbullet  ~ Medical Images and Signals & \textbullet ~ Molecular Dynamics & \\
+\end{tabularx}
+
+\section*{RELEVANT COURSEWORK}
+\begin{tabularx}{\textwidth}{@{} X X @{}}
+	Probability Theory & Mathematical Statistics \\
+	Time Series and Spatial Data Science & Statistical/Machine Learning Theory \\
+	Bayesian Statistics & Causal Inference \\
+	Statistical Consulting & Matrix Computation
+\end{tabularx}
+\fi
+
+\section*{TEACHING EXPERIENCE}
+\begin{tabularx}{\textwidth}{ @{} p{2.7cm}  X  r @{}}
+	Spring 2023 & Understanding Machine Learning & Teaching Assistant \\
+	@ Cornell & Instructor: \mbox{\href{https://people.cam.cornell.edu/amt269/}{Andrew M. Thomas}} & STSCI 4750 \\
+	& & \\
+	Fall 2021 & Operations Research Tools for Financial Engineering & Teaching Assistant \\ 
+	@ Cornell & Instructor: \mbox{\href{https://people.orie.cornell.edu/davidr/}{David Ruppert}} & STSCI 4630 \\
+	& & \\
+	Spring 2021 & Statistics for Financial Engineering & Teaching Assistant \\ 
+	@ Cornell & Instructor: \mbox{\href{https://davidsmatteson.com/}{David S. Matteson}} & STSCI 5640 \\
+	& & \\
+	Fall 2020 & Statistical Sampling & Teaching Assistant \\ 
+	@ Cornell & Instructor: \mbox{\href{https://www.ilr.cornell.edu/people/thomas-diciccio}{Thomas DiCiccio}} & STSCI 3100 \\
+	& & \\
+	Spring 2020 & Basic Probability & Teaching Assistant \\ 
+	@ Cornell & Instructor: \mbox{\href{http://pi.math.cornell.edu/~lsc/lau.html}{Laurent Saloff-Coste}} & MATH 4710 \\
+	& & \\
+	Fall 2019 & Probability Models and Inference & Teaching assistant \\
+	@ Cornell & Instructor: \mbox{\href{https://bunea.stat.cornell.edu/}{Florentina Bunea}} & STSCI 3080 \\
+\end{tabularx} 
+
+%If applying for a teaching related position, expand this section using the tabularx format below. Move it to be right after Research Experience section.
+%\begin{tabularx}{\textwidth}{@{} p{3cm}  X  @{}}
+%20XX & Title (lecturer, Teach assisstant, etc) \\
+%& University name, Program/Course \\
+%& Topics: List of topics\\
+%& \\
+%20XX & Guest Lecturer  \\
+%& University of Michigan, Department of Biostatistics\\
+%& Courses: list of courses \\
+%& Topic: List of topics \\ 
+%& \\
+%20XX - 20XX & Teaching Position  \\
+%& University, Department\\
+%& Courses: list of courses
+%\end{tabularx}
+
+%\section*{SERVICE}
+%\vspace{.7em}
+%Organization, Role (20xx-Present)\\
+%Organization, Role (20xx-20yy)\\
+%\href{https://linktounknownorg.com}{Specific Organization}, Member (20xx-20yy) 
+
+\ifacademia
+\section*{SERVICE}
+\begin{tabularx}{\textwidth}{ @{} p{2.7cm}  X  @{}} 
+	January 2023 & Reviewer for the Journal of Service Research. \\
+	November 2021 & Reviewer for the Journal of Econometrics. \\
+	January 2021 & Reviewer for the Best Student Paper Competition of Joint Statistical Meeting (JSM) Business and Economic Statistics Section (B\&E).
+\end{tabularx}
+\fi
+%\section*{RESEARCH VISITS}
+%%Put any certificates, summer programs, educational conferences where you didn't present, workshops, etc here. 
+%\begin{tabularx}{\textwidth}{ @{} p{2.7cm}  X  @{}} 
+%Fall 2017 & Research Intern Exchange \\
+%& Center for Applied Mathematics, Cornell University, Ithaca, NY\\
+%& \\ 
+%Aug 2016 & Summer Course on Partial Differential Equations \\
+%& HertFord College, Oxford University, Oxford, UK
+%\end{tabularx} 
+
+\ifacademia
+\section*{INDUSTRY EXPERIENCE}
+%Put all research projects here. GSRAs, summer research, research assistant, trainee positions. Can add short description of projects if early stage, but not suggested for long term.
+\begin{tabularx}{\textwidth}{@{} p{2.7cm}  p{1.5cm} X @{}}
+	May 2022 --- & \multicolumn{2}{l}{Data Scientist Intern} \\
+	\hfill --- Aug 2022 & \multicolumn{2}{l}{Amazon Web Services (AWS), Seattle, WA} \\
+	& Tasks: & Modeling efficacy for internal IT-Services products; \\ 
+	& & Optimizing data aggregation and interpretation logics. \\
+	& & \\
+	Mar 2018 --- & \multicolumn{2}{l}{Algorithm \& Data Science Intern} \\
+	\hfill --- May 2018 & \multicolumn{2}{l}{China Appraisal Association Data Analysis (CAAD), Shanghai, China} \\
+	& Tasks: & Regressing and predicting real estate appraisals; \\
+	& & Optimizing address search algorithms.
+\end{tabularx}
+
+\else
+\newpage
+\section*{SERVICE}
+\begin{tabularx}{\textwidth}{ @{} p{2.7cm}  X  @{}} 
+	January 2023 & Reviewer for the Journal of Service Research. \\
+	November 2021 & Reviewer for the Journal of Econometrics. \\
+	January 2021 & Reviewer for the Best Student Paper Competition of Joint Statistical Meeting (JSM) Business and Economic Statistics Section (B\&E).
+\end{tabularx}
+\fi
+%\section*{PROFESSIONAL MEMBERSHIPS}
+%%All organizations to which you belong. ASA, ENAR, etc. Spell out the full name.
+%\vspace{.7em}
+%Name of Organization (20XX - Present) \\
+%Name of Organization (20XX - 20XX)
+
+%\section*{COMMUNITY OUTREACH}
+%\begin{tabularx}{\textwidth}{@{} p{3cm}  X  @{}}
+%2018 - Present & \href{https://sph.umich.edu/biostat/statcom/index.html}{STATCOM (Statistics in the Community)} \\
+%& United Way Washtenaw County VITA Tax Prep data analysis\\
+%& UM, Ann Arbor, MI\\
+%&\\
+%2019 - Present & Tiny Lions Lounge \& Adoption Center \\
+%& Ann Arbor, MI\\
+%& \\
+%2009, 2010 & Mortar Board Member, Secretary\\
+%& UPS, Tacoma WA 
+%\end{tabularx}
+
+\end{document}
