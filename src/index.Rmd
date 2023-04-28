@@ -58,6 +58,9 @@ Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets
 
 ### Selected Honors & Awards
 
+* *__First-Place Winner__*, Student Paper Competition Case Studies and Applications track, The Statistical Methods in Imaging Conference 2023, May 2023.  
+*__Title__*: *Dynamic Atomic Column Detection in Transmission Electron Microscopy Videos via Ridge Estimation*.
+
 * *__Best Student Poster Award__*, IEEE Western New York Image and Signal Processing Workshop (WNYISPW), November 2022.  
 *__Title__*: *Non-parametric ridge recovery of TEM image series given temporal parameterization*.
 
