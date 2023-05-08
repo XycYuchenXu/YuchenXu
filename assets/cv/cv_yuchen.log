@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.20)  27 APR 2023 22:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.20)  8 MAY 2023 12:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -772,6 +772,10 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 416.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 416.
 Package rerunfilecheck Info: File `cv_yuchen.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+
 Package logreq Info: Writing requests to 'cv_yuchen.run.xml'.
 \openout1 = `cv_yuchen.run.xml'.
 
@@ -779,7 +783,7 @@ Package logreq Info: Writing requests to 'cv_yuchen.run.xml'.
 Here is how much of TeX's memory you used:
  18848 strings out of 480608
  334526 string characters out of 5903630
- 1031269 words of memory out of 5000000
+ 1030759 words of memory out of 5000000
  34463 multiletter control sequences out of 15000+600000
  548682 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191

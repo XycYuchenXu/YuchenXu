@@ -202,11 +202,9 @@
     \endentry
     \entry{Manzorro_2022}{article}{}
       \name{author}{6}{}{%
-        {{hash=64a7db649ab25fcb91dc9b14143745a3}{%
-           family={*Manzorro},
-           familyi={*\bibinitperiod},
-           given={Ramon},
-           giveni={R\bibinitperiod}}}%
+        {{hash=4d28f942c1f378dba7e0bb217c20c9ff}{%
+           family={{*Manzorro, R.}},
+           familyi={*\bibinitperiod}}}%
         {{hash=495e57d6b20bb862081f79c64deb77a0}{%
            family={\mkbibbold{*Xu,Y.}},
            familyi={*\bibinitperiod}}}%
@@ -234,12 +232,12 @@
       \list{publisher}{1}{%
         {Cambridge University Press ({CUP})}%
       }
-      \strng{namehash}{f85f2a6b744719094eafb0abc4d19b72}
-      \strng{fullhash}{ef87544fb5479306f5425501e79d7b33}
-      \strng{bibnamehash}{ef87544fb5479306f5425501e79d7b33}
-      \strng{authorbibnamehash}{ef87544fb5479306f5425501e79d7b33}
-      \strng{authornamehash}{f85f2a6b744719094eafb0abc4d19b72}
-      \strng{authorfullhash}{ef87544fb5479306f5425501e79d7b33}
+      \strng{namehash}{1aabeaa4e37c3709e9fd27f6320fb316}
+      \strng{fullhash}{762fa9dd1db7029a9774d6a5ed9640e9}
+      \strng{bibnamehash}{762fa9dd1db7029a9774d6a5ed9640e9}
+      \strng{authorbibnamehash}{762fa9dd1db7029a9774d6a5ed9640e9}
+      \strng{authornamehash}{1aabeaa4e37c3709e9fd27f6320fb316}
+      \strng{authorfullhash}{762fa9dd1db7029a9774d6a5ed9640e9}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
