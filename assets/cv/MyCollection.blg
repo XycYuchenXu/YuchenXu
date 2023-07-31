@@ -1,5 +1,0 @@
-[0] Config.pm:304> INFO - This is Biber 2.14
-[0] Config.pm:307> INFO - Logfile is 'MyCollection.blg'
-[95] biber-darwin:322> INFO - === Mon May  8, 2023, 11:01:29
-[298] Utils.pm:320> ERROR - Cannot find 'MyCollection.bcf'!
-[298] Biber.pm:132> INFO - ERRORS: 1
