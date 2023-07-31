@@ -33,7 +33,7 @@ border:5px solid; border-color:black">
 <div style="margin-bottom:20px;">
 </div>
 
-My name is Yuchen Xu, and I am a Ph.D candidate in the Department of Statistics & Data Science at Cornell University. Advised by Professor [David S. Matteson](https://davidsmatteson.com/), I am actively engaged in a number of funded grant projects.
+My name is Yuchen Xu. I just got my Ph.D from the Department of Statistics & Data Science at Cornell University. Advised by Professor [David S. Matteson](https://davidsmatteson.com/), I am actively engaged in a number of funded grant projects.
 
 My current research interests are time series analysis, image analysis, and multivariate analysis, such as dimension reduction through matrix diagonalization and/or tensor decomposition. I am also interested in science-integrated applications like material science, medical data analysis, signal processing, and behavior science.
 

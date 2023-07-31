@@ -25,10 +25,11 @@ output:
 <div style="margin-bottom:20px;">
 </div>
 
-## Doctor of Philosophy: Statistics & Data Science
+## Doctor of Philosophy: Statistics
 Cornell University Graduate School, Ithaca, NY 
 
 - **Entered:** Fall 2018    
+- **Graduated:** August 2023
 - **GPA:** 4.0/4.0
 <!-- - List awards and achievements -->
 - **Advisor:** [Dr. David S. Matteson](https://davidsmatteson.com/)
