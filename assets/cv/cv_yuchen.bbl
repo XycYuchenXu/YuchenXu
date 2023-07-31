@@ -361,21 +361,25 @@
       \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{Submitted to the Journal of Pyhsical Chemistry}
-      \field{month}{8}
+      \field{journaltitle}{Journal of Pyhsical Chemistry A}
+      \field{note}{PMID: 37381078}
+      \field{number}{27}
       \field{title}{Addressing the Embeddability Problem in Transition Rate Estimation}
-      \field{year}{2019}
+      \field{volume}{127}
+      \field{year}{2023}
       \true{nocite}
+      \field{pages}{5745\bibrangedash 5759}
+      \range{pages}{15}
       \verb{doi}
-      \verb 10.1101/707919
+      \verb 10.1021/acs.jpca.3c01367
       \endverb
       \verb{urlraw}
-      \verb https://doi.org/10.1101%2F707919
+      \verb https://doi.org/10.1021/acs.jpca.3c01367
       \endverb
       \verb{url}
-      \verb https://doi.org/10.1101%2F707919
+      \verb https://doi.org/10.1021/acs.jpca.3c01367
       \endverb
-      \keyw{submitted}
+      \keyw{article}
     \endentry
   \enddatalist
 \endrefsection

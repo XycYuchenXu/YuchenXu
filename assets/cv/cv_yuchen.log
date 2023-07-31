@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.20)  8 MAY 2023 12:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.20)  31 JUL 2023 08:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -713,45 +713,52 @@ LaTeX Info: Redefining \nameref on input line 91.
 \c@lstlisting=\count407
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ppl.fd)
-Overfull \hbox (54.67912pt too wide) in paragraph at lines 198--198
+Overfull \hbox (54.67912pt too wide) in paragraph at lines 204--204
 []|[]| 
  []
 
 
-Overfull \hbox (54.67912pt too wide) in paragraph at lines 198--198
+Overfull \hbox (54.67912pt too wide) in paragraph at lines 204--204
 []|[]| 
  []
 
 
-Overfull \hbox (54.67912pt too wide) in paragraph at lines 198--198
+Overfull \hbox (54.67912pt too wide) in paragraph at lines 204--204
 []|[]| 
  []
 
 
-Overfull \hbox (54.67912pt too wide) in paragraph at lines 198--198
+Overfull \hbox (54.67912pt too wide) in paragraph at lines 204--204
 []|[]| 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 209.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 209.
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 2
-33.
-(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) [1
+
+Overfull \hbox (54.67912pt too wide) in paragraph at lines 204--204
+[]|[]| 
+ []
+
+[1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 215.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 215.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 2
+39.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
 LaTeX Info: Symbol \textopenbullet not provided by
             font family ppl in TS1 encoding.
-            Default family used instead on input line 233.
+            Default family used instead on input line 239.
 LaTeX Info: Symbol \textopenbullet not provided by
             font family ppl in TS1 encoding.
-            Default family used instead on input line 237.
+            Default family used instead on input line 243.
 LaTeX Info: Symbol \textopenbullet not provided by
             font family ppl in TS1 encoding.
-            Default family used instead on input line 237.
+            Default family used instead on input line 243.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -759,31 +766,24 @@ Make it at least 13.59999pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[2]
-Overfull \vbox (5.13475pt too high) has occurred while \output is active []
-
-
-[3] 
+[2] [3] 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 416.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 416.
-(./cv_yuchen.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 416.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 416.
+[4]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 422.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 422.
+ (./cv_yuchen.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 422.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 422.
 Package rerunfilecheck Info: File `cv_yuchen.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-
 Package logreq Info: Writing requests to 'cv_yuchen.run.xml'.
 \openout1 = `cv_yuchen.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18848 strings out of 480608
- 334526 string characters out of 5903630
- 1030759 words of memory out of 5000000
+ 18849 strings out of 480608
+ 334532 string characters out of 5903630
+ 1034269 words of memory out of 5000000
  34463 multiletter control sequences out of 15000+600000
  548682 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -798,10 +798,10 @@ t/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts
 /type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1
 /urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/pa
 latino/uplri8a.pfb>
-Output written on cv_yuchen.pdf (3 pages, 123406 bytes).
+Output written on cv_yuchen.pdf (4 pages, 124557 bytes).
 PDF statistics:
- 220 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
- 28 named destinations out of 1000 (max. 500000)
+ 243 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

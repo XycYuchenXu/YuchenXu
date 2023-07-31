@@ -41,3 +41,5 @@ vignettes/*.pdf
 renv
 .Rprofile
 *.DS_Store
+
+assets/cv
