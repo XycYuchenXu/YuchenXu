@@ -42,33 +42,33 @@ output:
 
 ## Presentations
 
-#### Testing Simultaneous Diagonalizabiliy
+#### Joint Learning of Panel VAR models with Low Rank and Sparse Structure
 
-* Contributed. Conference on Advances in Time Series Analysis, Speedy Session. May 2023. Chicago, IL.
-
-* Contributed \& Poster. Joint Statistical Meeting (JSM), Business and Economic Statistics Section, Speed Session. July 2019. Denver, CO.
-
-* Poster. Cornell Celebration of Statistics and Data Science, Poster Session. Sept 2019. Ithaca, NY.
-
-#### Recording atomic column positions and intensities via Blob Detection in noise-degraded TEM frames
-
-* Contributed. UPSTAT 2021 Conference, Parallel Session, *__Bronze Medal Presenter__*. Apr 2021. (Virtual) Rochester, NY.
-
-* Contributed. The 37th SIDIM, Data Science in Science Minisymposia, Parallel Session. Feb 2022. (Virtual) Puerto Rico.
-
-#### Non-parametric ridge recovery of TEM image series given temporal parameterization
-
-* Contributed. 2022 INFORMS Annual Meeting, Science-Integrated Statistical Learning Section, Technical Session. Oct 2022. Indianapolis, IN.
-
-* Poster. 2022 IEEE Western New York Image and Signal Processing Workshop (WNYISPW), Poster Session, *__Best Student Poster Award__*. Nov 2022. (Hybrid) Rochester, NY.
+* August 2024. Joint Statistical Meeting (JSM), Business and Economic Statistics Section, Poster Session. Portland, OR.
 
 #### Dynamic Atomic Column Detection in Transmission Electron Microscopy Videos via Ridge Estimation
 
-* Contributed. The Statistical Methods in Imaging Conference 2023, *__First-Place Winner of Student Paper Competition Case Studies and Applications track__*. May 2023. Minneapolis, MN.
+* May 2023. The Statistical Methods in Imaging Conference 2023, Contributed Session. *__First-Place Winner of Student Paper Competition Case Studies and Applications track__*. Minneapolis, MN.
 
-#### Joint Learning of Panel VAR models with Low Rank and Sparse Structure
+#### Non-parametric ridge recovery of TEM image series given temporal parameterization
 
-* Poster. Joint Statistical Meeting (JSM), Business and Economic Statistics Section, Poster Session. August 2024. Portland, OR.
+* Oct 2022. 2022 INFORMS Annual Meeting, Science-Integrated Statistical Learning Section, Contributed Technical Session. Indianapolis, IN.
+
+* Nov 2022. 2022 IEEE Western New York Image and Signal Processing Workshop (WNYISPW), Poster Session, *__Best Student Poster Award__*. (Hybrid) Rochester, NY.
+
+#### Recording atomic column positions and intensities via Blob Detection in noise-degraded TEM frames
+
+* Apr 2021. UPSTAT 2021 Conference, Contributed Parallel Session, *__Bronze Medal Presenter__*. (Virtual) Rochester, NY.
+
+* Feb 2022. The 37th SIDIM, Data Science in Science Minisymposia, Contributed Parallel Session. (Virtual) Puerto Rico.
+
+#### Testing Simultaneous Diagonalizabiliy
+
+* May 2023. Conference on Advances in Time Series Analysis, Contributed Speedy Session. Chicago, IL.
+
+* July 2019. Joint Statistical Meeting (JSM), Business and Economic Statistics Section, Contributed Speed Session. Denver, CO.
+
+* Sept 2019. Cornell Celebration of Statistics and Data Science, Poster Session. Ithaca, NY.
 
 </div>
 <div style="margin-bottom:60px;">
