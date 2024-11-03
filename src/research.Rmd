@@ -32,6 +32,9 @@ output:
 
 * Calabro, C., Sadhu R., __Xu, Y.__, Aprea, M., Guarino, C., \& Cazer C. L. (2024). _Longitudinal Antimicrobial Susceptibility Trends of Canine Staphylococcus Pseudintermedius_. _Preventive Veterinary Medicine_, 226, 106170. [__doi:10.1016/j.prevetmed.2024.106170__](https://doi.org/10.1016/j.prevetmed.2024.106170).
 
+* Thomas, A. M., Lin, A. C., Deng, G., __Xu, Y.__, Ranvier, G. F., Taye, A., Matteson, D. S., \& Lee, D. (2024). _A Proof-of-Concept Investigation into Predicting Follicular Carcinoma on Ultrasound Using Topological Data Analysis and Radiomics._ _medRxiv preprint_ [__medRxiv:2023.10.18.23297210__](https://doi.org/10.1101/2023.10.18.23297210).
+
+
 
 </div>
 <div style="margin-bottom:60px;">
