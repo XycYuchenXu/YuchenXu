@@ -30,6 +30,8 @@ output:
 
 * Goolsby, C., Losey, J., __Xu, Y.__, Düker, M. C., Sherman, M. G., Matteson, D. S., \& Moradi, M. (2021). _Addressing the Embeddability Problem in Transition Rate Estimation_. _Journal of Physical Chemistry A_, 127 (27), 5745-5759. [__doi: 10.1021/acs.jpca.3c01367__](https://doi.org/10.1021/acs.jpca.3c01367).
 
+* Calabro, C., Sadhu R., __Xu, Y.__, Aprea, M., Guarino, C., \& Cazer C. L. (2024). _Longitudinal Antimicrobial Susceptibility Trends of Canine Staphylococcus Pseudintermedius_. _Preventive Veterinary Medicine_, 226, 106170. [__doi:10.1016/j.prevetmed.2024.106170__](https://doi.org/10.1016/j.prevetmed.2024.106170).
+
 
 </div>
 <div style="margin-bottom:60px;">
@@ -61,6 +63,9 @@ output:
 
 * Contributed. The Statistical Methods in Imaging Conference 2023, *__First-Place Winner of Student Paper Competition Case Studies and Applications track__*. May 2023. Minneapolis, MN.
 
+#### Joint Learning of Panel VAR models with Low Rank and Sparse Structure
+
+* Poster. Joint Statistical Meeting (JSM), Business and Economic Statistics Section, Poster Session. August 2024. Portland, OR.
 
 </div>
 <div style="margin-bottom:60px;">

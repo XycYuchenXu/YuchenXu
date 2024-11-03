@@ -11,4 +11,4 @@ output:
     css: "style.css"
 ---
 
-Please contact me at [yx439@cornell.edu]() / [XycXu1015@gmail.com]()
+Please contact me at [yuchenxu95@ucla.edu]() / [yx439@cornell.edu]() / [XycXu1015@gmail.com]()
