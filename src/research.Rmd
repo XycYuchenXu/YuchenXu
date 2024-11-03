@@ -44,7 +44,7 @@ output:
 
 #### Joint Learning of Panel VAR models with Low Rank and Sparse Structure
 
-* August 2024. Joint Statistical Meeting (JSM), Business and Economic Statistics Section, Poster Session. Portland, OR.
+* Aug 2024. Joint Statistical Meeting (JSM), Business and Economic Statistics Section, Poster Session. Portland, OR.
 
 #### Dynamic Atomic Column Detection in Transmission Electron Microscopy Videos via Ridge Estimation
 
