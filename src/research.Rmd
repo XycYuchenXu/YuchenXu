@@ -44,6 +44,8 @@ output:
 
 #### Joint Learning of Panel VAR models with Low Rank and Sparse Structure
 
+* Nov 2024. The Conference on Statistical Learning and Data Science (SLDS), Analysis of High Dimensional Data with Complex Structure Section, Invited Session. Newport Beach, CA.
+
 * Aug 2024. Joint Statistical Meeting (JSM), Business and Economic Statistics Section, Poster Session. Portland, OR.
 
 #### Dynamic Atomic Column Detection in Transmission Electron Microscopy Videos via Ridge Estimation

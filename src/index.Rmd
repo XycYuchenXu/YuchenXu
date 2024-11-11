@@ -45,6 +45,21 @@ Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets
 <div style="margin-bottom:50px;">
 </div>
 
+### Employment
+
+* __09/2023 - Present:__ Postdoctoral Scholar.
+
+  Advisor: Professor [George Michailidis](https://georgemichailidis.github.io/), Department of Statistics and Data Science, UCLA.
+
+
+* __2019 - 2023:__ Graduate Research & Teaching Assistant.
+  
+  Department of Statistics & Data Science, Cornell University.
+
+</div>
+<div style="margin-bottom:30px;">
+</div>
+
 ### Selected Publication & Preprints
 
 * __Xu, Y.__, Düker, M. C., \& Matteson, D. S. (2023). _Testing Simultaneous Diagonalizability_. _Journal of the American Statistical Association_. [__doi: 10.1080/01621459.2023.2202435__](https://doi.org/10.1080/01621459.2023.2202435).
