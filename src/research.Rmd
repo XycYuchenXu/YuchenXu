@@ -20,19 +20,19 @@ output:
 
 ## Publications & Preprints
 
-* __Xu, Y.__, Düker, M. C., \& Matteson, D. S. (2023). _Testing Simultaneous Diagonalizability_. _Journal of the American Statistical Association_. [__doi: 10.1080/01621459.2023.2202435__](https://doi.org/10.1080/01621459.2023.2202435).
+* __Xu, Y.__, Düker, M. C., \& Matteson, D. S. (2023). _Testing Simultaneous Diagonalizability_. _Journal of the American Statistical Association_, 119 (546), 1513-1525. [__doi: 10.1080/01621459.2023.2202435__](https://doi.org/10.1080/01621459.2023.2202435).
 
-* __Xu, Y.__, Thomas, A. M., Crozier, P. A., \& Matteson, D. S. (2023). _Dynamic Atomic Column Detection in Transmission Electron Microscopy Videos via Ridge Estimation_. _arXiv preprint_ [__arXiv:2302.00816__](https://arxiv.org/abs/2302.00816).
+* __Xu, Y.__, Thomas, A. M., Crozier, P. A., \& Matteson, D. S. (2025). _Dynamic Atomic Column Detection in Transmission Electron Microscopy Videos via Ridge Estimation_. _IEEE Transactions on Image Processing_, 34, 1588-1601. [__doi:10.1109/TIP.2025.3543138__](https://doi.org/10.1109/tip.2025.3543138).
 
 * Manzorro, R., __Xu, Y.__, Vincent, J., Rivera, R., Matteson, D., \& Crozier, P. (2022). _Exploring Blob Detection to Determine Atomic Column Positions and Intensities in Time-Resolved TEM Images with Ultra-Low Signal-to-Noise_. _Microscopy and Microanalysis_, 28 (6), 1917-1930. [__doi:10.1017/S1431927622000356__](https://doi.org/10.1017/S1431927622000356).
 
-* Thomas, A. M., Crozier, P. A., __Xu, Y.__, \& Matteson, D. S. (2023). _Feature Detection and Hypothesis Testing for Extremely Noisy Nanoparticle Images using Topological Data Analysis_. _Techonometrics_. [__doi: 10.1080/00401706.2023.2203744__](https://doi.org/10.1080/00401706.2023.2203744).
+* Thomas, A. M., Crozier, P. A., __Xu, Y.__, \& Matteson, D. S. (2023). _Feature Detection and Hypothesis Testing for Extremely Noisy Nanoparticle Images using Topological Data Analysis_. _Techonometrics_, 65 (4), 590-603. [__doi: 10.1080/00401706.2023.2203744__](https://doi.org/10.1080/00401706.2023.2203744).
 
 * Goolsby, C., Losey, J., __Xu, Y.__, Düker, M. C., Sherman, M. G., Matteson, D. S., \& Moradi, M. (2021). _Addressing the Embeddability Problem in Transition Rate Estimation_. _Journal of Physical Chemistry A_, 127 (27), 5745-5759. [__doi: 10.1021/acs.jpca.3c01367__](https://doi.org/10.1021/acs.jpca.3c01367).
 
 * Calabro, C., Sadhu R., __Xu, Y.__, Aprea, M., Guarino, C., \& Cazer C. L. (2024). _Longitudinal Antimicrobial Susceptibility Trends of Canine Staphylococcus Pseudintermedius_. _Preventive Veterinary Medicine_, 226, 106170. [__doi:10.1016/j.prevetmed.2024.106170__](https://doi.org/10.1016/j.prevetmed.2024.106170).
 
-* Thomas, A. M., Lin, A. C., Deng, G., __Xu, Y.__, Ranvier, G. F., Taye, A., Matteson, D. S., \& Lee, D. (2024). _A Proof-of-Concept Investigation into Predicting Follicular Carcinoma on Ultrasound Using Topological Data Analysis and Radiomics._ _medRxiv preprint_ [__medRxiv:2023.10.18.23297210__](https://doi.org/10.1101/2023.10.18.23297210).
+* Thomas, A. M., Lin, A. C., Deng, G., __Xu, Y.__, Ranvier, G. F., Taye, A., Matteson, D. S., \& Lee, D. (2024). _A Proof-of-Concept Investigation into Predicting Follicular Carcinoma on Ultrasound Using Topological Data Analysis and Radiomics._ _Imaging_, 2025. [__doi:10.1556/1647.2025.00256__](https://doi.org/10.1556/1647.2025.00256).
 
 
 
@@ -43,6 +43,8 @@ output:
 ## Presentations
 
 #### Joint Learning of Panel VAR models with Low Rank and Sparse Structure
+
+* Jan 2025. Department Seminar in the Department of Statistics at the University of California, Santa Cruz, CA.
 
 * Nov 2024. The Conference on Statistical Learning and Data Science (SLDS), Analysis of High Dimensional Data with Complex Structure Section, Invited Session. Newport Beach, CA.
 
