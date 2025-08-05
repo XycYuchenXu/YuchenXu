@@ -16,8 +16,7 @@ output:
 <center><span style="font-family:STKaiti"><font size="5"> __徐毓宸__</font></span></center>
 
 <center>
-Ph.D. Student in [Statistics & Data Science at Cornell University](https://stat.cornell.edu/)  
-**Pronouns:** he/him/his
+Postdoc in [Statistics & Data Science at University of California, Los Angeles](https://statistics.ucla.edu/)
 </center>
 
 </div>
@@ -33,13 +32,25 @@ border:5px solid; border-color:black">
 <div style="margin-bottom:20px;">
 </div>
 
-My name is Yuchen Xu. I am a Postdoctoral scholar at the Department of Statistics and Data Science, University of California, Los Angeles. Here I work with Professor [George Michailidis](https://georgemichailidis.github.io/) on topics about panel time series analysis. Prior to that I got my Ph.D from the Department of Statistics & Data Science at Cornell University. Advised by Professor [David S. Matteson](https://davidsmatteson.com/), I am actively engaged in a number of funded grant projects.
+My name is Yuchen Xu. I am a Postdoctoral scholar at the Department of Statistics and Data Science, University of California, Los Angeles. Here I work with Professor [George Michailidis](https://georgemichailidis.github.io/) on topics about panel time series analysis. Prior to that I got my Ph.D from the Department of Statistics & Data Science at Cornell University, advised by Professor [David S. Matteson](https://davidsmatteson.com/). I am actively engaged in a number of funded grant projects.
 
-My current research interests are time series analysis, image analysis, and multivariate analysis, such as dimension reduction through matrix diagonalization and/or tensor decomposition. I am also interested in science-integrated applications like material science, medical data analysis, signal processing, and behavior science.
+My current research interests are time series analysis, image analysis, and multivariate analysis, such as dimension reduction through matrix diagonalization and/or tensor decomposition. I am also interested in science-integrated applications with topics covering material science, medical data analysis, signal processing, and behavior science.
 
-I am currently actively seeking tenure track opportunities in statistics and data science.
+___I am currently actively seeking tenure track opportunities in statistics and data science.___
 
 Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets/cv_yuchen.pdf).
+
+</div>
+<div style="margin-bottom:50px;">
+</div>
+
+### News
+
+* I will present a talk about Panel VAR model with low-rank and sparse structure at an invited JSM session of [Advances in High-Dimensional Time Series: Causality, Learning, and Dimension Reduction](https://ww3.aievolution.com/JSMAnnual2025/Events/viewEv?ev=1761) in August.
+
+* I will present a poster about transfer learning for Panel VAR model at the [2025 NBER-NSF Time Series Conference](https://econweb.rutgers.edu/nswanson/Main-nbernsf.html) in September.
+
+* I will present a poster about transfer learning for Panel VAR model at the [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in October.
 
 </div>
 <div style="margin-bottom:50px;">
@@ -61,6 +72,8 @@ Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets
 </div>
 
 ### Selected Publication & Preprints
+
+* _[Submitted]_ __Xu, Y.__, Michailidis, G. (2025). _Joint Learning of Panel VAR models with Low Rank and Sparse Structure_.
 
 * _[Chapter 1 of PhD Thesis]_ __Xu, Y.__, Düker, M. C., \& Matteson, D. S. (2023). _Testing Simultaneous Diagonalizability_. _Journal of the American Statistical Association_, 119 (546), 1513-1525. [__doi: 10.1080/01621459.2023.2202435__](https://doi.org/10.1080/01621459.2023.2202435).
 

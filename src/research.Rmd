@@ -42,7 +42,13 @@ output:
 
 ## Presentations
 
+#### Learning of Multi-level Granger Causal Connectivity
+
+* Jun 2025. The 38th New England Statistics Symposium (NESS), Advances in Modeling and Methodology for Multiple-Subject Time Series, Invited Session. New Haven, CT.
+
 #### Joint Learning of Panel VAR models with Low Rank and Sparse Structure
+
+* Aug 2025. Joint Statistical Meeting (JSM), Advances in High-Dimensional Time Series: Causality, Learning, and Dimension Reduction, Invited Session. Nashville, TN.
 
 * Jan 2025. Department Seminar in the Department of Statistics at the University of California, Santa Cruz, CA.
 
