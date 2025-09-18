@@ -34,7 +34,7 @@ border:5px solid; border-color:black">
 
 My name is Yuchen Xu. I am a Postdoctoral scholar at the Department of Statistics and Data Science, University of California, Los Angeles. Here I work with Professor [George Michailidis](https://georgemichailidis.github.io/) on topics about panel time series analysis. Prior to that I got my Ph.D from the Department of Statistics & Data Science at Cornell University, advised by Professor [David S. Matteson](https://davidsmatteson.com/). I am actively engaged in a number of funded grant projects.
 
-My current research interests are time series analysis, image analysis, and multivariate analysis, such as dimension reduction through matrix diagonalization and/or tensor decomposition. I am also interested in science-integrated applications with topics covering material science, medical data analysis, signal processing, and behavior science.
+My current research interests are high-dimensional time series analysis, image analysis, and panel data analysis, covering topics such as regression, dimension reduction, tensor decomposition, etc. I am also interested in science-integrated applications with topics including material science, finance, medical data analysis, signal processing, and behavior science.
 
 ___I am currently actively seeking tenure track opportunities in statistics and data science.___
 
@@ -45,6 +45,8 @@ Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets
 </div>
 
 ### News
+
+* I have made our manuscript for the work _Joint Learning of Panel VAR Models with Low-Rank and Sparse Structure_ available as preprint [[pdf]](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets/Panel_VAR.pdf).
 
 * I will present a talk about Panel VAR model with low-rank and sparse structure at an invited JSM session of [Advances in High-Dimensional Time Series: Causality, Learning, and Dimension Reduction](https://ww3.aievolution.com/JSMAnnual2025/Events/viewEv?ev=1761) in August.
 
