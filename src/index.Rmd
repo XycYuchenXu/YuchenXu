@@ -46,7 +46,7 @@ Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets
 
 ### News
 
-* I have made our manuscript for the work _Joint Learning of Panel VAR Models with Low-Rank and Sparse Structure_ available as preprint [[pdf]](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets/Panel_VAR.pdf).
+* I have made our manuscript for the work _Joint Learning of Panel VAR Models with Low-Rank and Sparse Structure_ available as preprint [<a href="xycyuchenxu.github.io/YuchenXu/assets/Panel_VAR.pdf" target="_blank">PDF</a>].
 
 * I will present a talk about Panel VAR model with low-rank and sparse structure at an invited JSM session of [Advances in High-Dimensional Time Series: Causality, Learning, and Dimension Reduction](https://ww3.aievolution.com/JSMAnnual2025/Events/viewEv?ev=1761) in August.
 
