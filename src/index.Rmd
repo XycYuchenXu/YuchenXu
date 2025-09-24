@@ -48,11 +48,11 @@ Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets
 
 * I have made our manuscript for the work _Joint Learning of Panel VAR Models with Low-Rank and Sparse Structure_ available as preprint [[arXiv]](https://doi.org/10.1080/01621459.2023.2202435).
 
-* I will present a talk about Panel VAR model with low-rank and sparse structure at an invited JSM session of [Advances in High-Dimensional Time Series: Causality, Learning, and Dimension Reduction](https://ww3.aievolution.com/JSMAnnual2025/Events/viewEv?ev=1761) in August.
+* I will present a poster about transfer learning for Panel VAR model at the [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in October [[Link]](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=5758).
 
 * I will present a poster about transfer learning for Panel VAR model at the [2025 NBER-NSF Time Series Conference](https://econweb.rutgers.edu/nswanson/Main-nbernsf.html) in September.
 
-* I will present a poster about transfer learning for Panel VAR model at the [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in October.
+* I will present a talk about Panel VAR model with low-rank and sparse structure at an invited JSM session of [Advances in High-Dimensional Time Series: Causality, Learning, and Dimension Reduction](https://ww3.aievolution.com/JSMAnnual2025/Events/viewEv?ev=1761) in August.
 
 </div>
 <div style="margin-bottom:50px;">
