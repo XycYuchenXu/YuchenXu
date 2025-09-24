@@ -22,6 +22,8 @@ output:
 
 * __Xu, Y.__, Düker, M. C., \& Matteson, D. S. (2023). _Testing Simultaneous Diagonalizability_. _Journal of the American Statistical Association_, 119 (546), 1513-1525. [__doi: 10.1080/01621459.2023.2202435__](https://doi.org/10.1080/01621459.2023.2202435).
 
+* __Xu, Y.__, \& Michailidis, G. (2025). _Joint Learning of Panel VAR Models with Low-Rank and Sparse Structure_. _arXiv_. [__doi:10.48550/arXiv.2509.15402__](https://doi.org/10.48550/arXiv.2509.15402).
+
 * __Xu, Y.__, Thomas, A. M., Crozier, P. A., \& Matteson, D. S. (2025). _Dynamic Atomic Column Detection in Transmission Electron Microscopy Videos via Ridge Estimation_. _IEEE Transactions on Image Processing_, 34, 1588-1601. [__doi:10.1109/TIP.2025.3543138__](https://doi.org/10.1109/tip.2025.3543138).
 
 * Manzorro, R., __Xu, Y.__, Vincent, J., Rivera, R., Matteson, D., \& Crozier, P. (2022). _Exploring Blob Detection to Determine Atomic Column Positions and Intensities in Time-Resolved TEM Images with Ultra-Low Signal-to-Noise_. _Microscopy and Microanalysis_, 28 (6), 1917-1930. [__doi:10.1017/S1431927622000356__](https://doi.org/10.1017/S1431927622000356).
@@ -41,6 +43,10 @@ output:
 </div>
 
 ## Presentations
+
+#### Data-Secure Decoupled Transfer Learning from Heterogeneous Low-Rank and Sparse Panel VAR Models
+
+* Sept 2025. 2025 NBER-NSF Time Series Conference. Poster Session. New Brunswick, NJ.
 
 #### Learning of Multi-level Granger Causal Connectivity
 
