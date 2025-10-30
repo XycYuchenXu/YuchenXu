@@ -46,6 +46,8 @@ output:
 
 #### Data-Secure Decoupled Transfer Learning from Heterogeneous Low-Rank and Sparse Panel VAR Models
 
+* Oct 2025. 2025 INFORMS Annual Meeting. Causal Inference and Predictive Modeling in Complex Systems, Contributed Session. Atlanta, GA.
+
 * Sept 2025. 2025 NBER-NSF Time Series Conference. Poster Session. New Brunswick, NJ.
 
 #### Learning of Multi-level Granger Causal Connectivity
