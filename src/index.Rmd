@@ -46,13 +46,13 @@ Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets
 
 ### News
 
-* I have made our manuscript for the work _Joint Learning of Panel VAR Models with Low-Rank and Sparse Structure_ available as preprint [[arXiv]](https://doi.org/10.1080/01621459.2023.2202435).
+* I have made the preprint of our manuscript for the work _Joint Learning of Panel VAR Models with Low-Rank and Sparse Structure_ available [[arXiv]](https://doi.org/10.1080/01621459.2023.2202435).
 
-* I will present a poster about transfer learning for Panel VAR model at the [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in October [[Link]](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=5758).
+* I presented a talk about transfer learning for Panel VAR model at the [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in October [[Link]](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=5758).
 
-* I will present a poster about transfer learning for Panel VAR model at the [2025 NBER-NSF Time Series Conference](https://econweb.rutgers.edu/nswanson/Main-nbernsf.html) in September.
+* I presented a poster about transfer learning for Panel VAR model at the [2025 NBER-NSF Time Series Conference](https://econweb.rutgers.edu/nswanson/Main-nbernsf.html) in September.
 
-* I will present a talk about Panel VAR model with low-rank and sparse structure at an invited JSM session of [Advances in High-Dimensional Time Series: Causality, Learning, and Dimension Reduction](https://ww3.aievolution.com/JSMAnnual2025/Events/viewEv?ev=1761) in August.
+* I presented a talk about Panel VAR model with low-rank and sparse structure at an invited JSM session of [Advances in High-Dimensional Time Series: Causality, Learning, and Dimension Reduction](https://ww3.aievolution.com/JSMAnnual2025/Events/viewEv?ev=1761) in August.
 
 </div>
 <div style="margin-bottom:50px;">
@@ -75,7 +75,7 @@ Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets
 
 ### Selected Publication & Preprints
 
-* _[Submitted]_ __Xu, Y.__, Michailidis, G. (2025). _Joint Learning of Panel VAR models with Low Rank and Sparse Structure_.
+* _[Submitted]_ __Xu, Y.__, Michailidis, G. (2025). _Joint Learning of Panel VAR models with Low Rank and Sparse Structure_. _arXiv_. [__doi:10.48550/arXiv.2509.15402__](https://doi.org/10.48550/arXiv.2509.15402).
 
 * _[Chapter 1 of PhD Thesis]_ __Xu, Y.__, Düker, M. C., \& Matteson, D. S. (2023). _Testing Simultaneous Diagonalizability_. _Journal of the American Statistical Association_, 119 (546), 1513-1525. [__doi: 10.1080/01621459.2023.2202435__](https://doi.org/10.1080/01621459.2023.2202435).
 
