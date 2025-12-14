@@ -46,7 +46,7 @@ Please find my CV [here](https://github.com/XycYuchenXu/YuchenXu/raw/main/assets
 
 ### News
 
-* I have made the preprint of our manuscript for the work _Joint Learning of Panel VAR Models with Low-Rank and Sparse Structure_ available [[arXiv]](https://doi.org/10.1080/01621459.2023.2202435).
+* I have made the preprint of our manuscript for the work _Joint Learning of Panel VAR Models with Low-Rank and Sparse Structure_ available [[arXiv]](https://doi.org/10.48550/arXiv.2509.15402).
 
 * I presented a talk about transfer learning for Panel VAR model at the [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in October [[Link]](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=5758).
 
